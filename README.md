@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Flaviano+Kiffer" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm Flaviano Kiffer</h1>
 <h3 align="center">Desenvolvedor Full Stack em constante evolução.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fk1ff3r&label=Profile%20views&color=0e75b6&style=flat" alt="fk1ff3r" /> </p>
