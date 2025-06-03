@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Flaviano Kiffer</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Full+Stack+em+constante+evolu%C3%A7%C3%A3o." alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Flaviano+Kiffer" alt="Typing SVG" /></a></h1>
+<h3 align="center">Desenvolvedor Full Stack em constante evolução.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fk1ff3r" alt="fk1ff3r" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fk1ff3r&label=Profile%20views&color=0e75b6&style=flat" alt="fk1ff3r" /> </p>
 
 - 🌱 I’m currently learning **React, Next.js and Typescript**
 
