@@ -81,3 +81,18 @@
 </div>
 
 ###
+
+### 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FK1FF3R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=pt-br&hide_border=true&order=1" height="146" alt="stats graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=FK1FF3R&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&order=3" height="145" alt="streak graph"  />
+
+<br/>
+<br/>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FK1FF3R&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FK1FF3R.FK1FF3R&right_color=darkviolet&left_text=Visitas"  />
