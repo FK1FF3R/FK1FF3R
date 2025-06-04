@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flaviano Kiffer</h1>
-<h3 align="center">Desenvolvedor Full Stack em constante evolução.</h3>
+<p align="left">My journey in technology began out of curiosity, tinkering with computers and creating small projects. Over time, this curiosity turned into a passion—and then, a professional path. Upon discovering the power of the cloud and its impact at scale, I decided to delve deeper into cloud computing, where I found my true technological purpose.<br><br>I graduated with a technical degree in Information Technology and immersed myself in the world of full-stack web development, mastering technologies like JavaScript, React, Node.js, and deepening my knowledge of cloud computing with AWS. Recently, I earned the AWS Certified Cloud Practitioner certification, the first official step on my path towards cloud solutions architecture and engineering.</p>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/FK1FF3R/count.svg?"  />
@@ -72,6 +74,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
 </div>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/8833a180-8109-410e-b874-99a124da8d3b/public_url">
+    <img align="center" height="150" src="https://github.com/qi-qi/aws-certified-cloud-practitioner/blob/master/aws-certified-cloud-practitioner-digital-badge.png?raw=true">
+  </a>
+</div>
+
 
 ###
 <h3 align="left">Connect with me:</h3>
