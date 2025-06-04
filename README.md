@@ -75,6 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
 </div>
 
+<h3 align="left">Certifications:</h3>
 <div align="center">
   <a href="https://www.credly.com/badges/8833a180-8109-410e-b874-99a124da8d3b/public_url">
     <img align="center" height="150" src="https://github.com/qi-qi/aws-certified-cloud-practitioner/blob/master/aws-certified-cloud-practitioner-digital-badge.png?raw=true">
@@ -95,7 +96,7 @@
 
 ###
 
-### 📊 Estatísticas
+### 📊 Statistics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FK1FF3R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FK1FF3R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
