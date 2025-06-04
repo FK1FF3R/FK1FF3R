@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Flaviano Kiffer</h1>
 <h3 align="center">Desenvolvedor Full Stack em constante evolução.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fk1ff3r&label=Profile%20views&color=0e75b6&style=flat" alt="fk1ff3r" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FK1FF3R/count.svg?"  />
+</div>
+
+###
 
 - 🌱 I’m currently learning **React, Next.js and Typescript**
 
